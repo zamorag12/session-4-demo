@@ -1,0 +1,19 @@
+{
+  "name": "Session-4-Core-Code-IO-QA-Bootcamp-DEMO",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "oop-best-demo": "node src/example.js",
+    "oop-bad-demo": "node src/bad-example.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "prettier": "2.6.2"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "dependencies": {
+    "prettier-package-json": "^2.6.3"
+  }
+}

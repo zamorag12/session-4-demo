@@ -1,0 +1,4 @@
+.vscode
+
+# Node Modules after installing dependencies 
+node_modules
